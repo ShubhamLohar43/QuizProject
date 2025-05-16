@@ -1,1 +1,1 @@
-Run project by passing command in terminal sectiom- npm run dev
+Run project by passing command in terminal section- npm run dev
